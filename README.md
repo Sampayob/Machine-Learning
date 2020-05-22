@@ -1,6 +1,6 @@
 # Machine Learning
 
-Repository with Machine Learning projects and examples. 
+Repository with Python Machine Learning projects and examples. 
 
 ## Current content
 
