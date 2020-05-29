@@ -10,4 +10,4 @@ Repository with Python Machine Learning projects and examples.
 * [ML and DL_Motor vehicle accidents in Madrid 2019 (**Spanish language used**)](https://github.com/Sampayob/Machine-Learning/blob/master/classification/MLandDL_MotorVehicleAccidents.ipynb) (EDA, data visualization, multiple classification, time series forecasting with RNN) 
 
 ### Classification & Clustering
-* [Santader bank transaction data - EClassification and Clustering](https://github.com/Sampayob/Machine-Learning/blob/master/classification-and-clustering/santander-clustering-and-classification.ipynb) (EDA, extensive data visualization, binary classification, clustering (need long computing time), ROC, GridSearch) 
+* [Santader bank transaction data - Classification and Clustering](https://github.com/Sampayob/Machine-Learning/blob/master/classification-and-clustering/santander-clustering-and-classification.ipynb) (EDA, extensive data visualization, binary classification, clustering (need long computing time), ROC, GridSearch) 
