@@ -1,6 +1,6 @@
 # Machine Learning
 
-Repository with Python Machine Learning projects and examples. 
+Repository with Python Machine Learning projects, Kaggle competitions and examples. 
 
 ## Current content
 
@@ -11,3 +11,7 @@ Repository with Python Machine Learning projects and examples.
 
 ### Classification & Clustering
 * [Santader bank transaction data - Classification and Clustering](https://github.com/Sampayob/Machine-Learning/blob/master/classification-and-clustering/santander-clustering-and-classification.ipynb) (EDA, extensive data visualization, binary classification, clustering (need long computing time), ROC, GridSearch) 
+
+### Regression
+
+* [House Prices: Advanced Regression Techniques (Kaggle competition)](https://www.kaggle.com/ssampab/comprehensive-guide-through-regression-modeling)
