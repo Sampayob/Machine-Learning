@@ -6,7 +6,7 @@ Repository with Python Machine Learning projects, Kaggle competitions and exampl
 
 ### Classification
 
-* [Boardgames generator web app](https://github.com/Sampayob/Boardgames-meets-Data-science): interactive web app which can generate successful (in market terms) boardgames with its unique characteristics and also can predict if a certain boardgame will be successful.
+* [Boardgame Generator web app](https://github.com/Sampayob/Boardgames-meets-Data-science): interactive web app which can generate successful (in market terms) boardgames with its unique characteristics and also can predict if a certain boardgame will be successful.
 
 * [ML complete classification example: pulsar star detection](https://github.com/Sampayob/Machine-Learning/blob/master/classification/Machine%20Learning%20complete%20classification%20example%20-%20Pulsar%20star%20detection.ipynb): EDA, dataset resampling, binary classification, Feature importance, ROC, Pipeline, GridSearch.
 
