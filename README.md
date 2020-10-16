@@ -16,6 +16,8 @@ Repository with Python Machine Learning projects, Kaggle competitions and exampl
 
 * [Geo-clustering](https://github.com/Sampayob/Machine-Learning/blob/master/classification-and-clustering/Geo-economic%20Clustering.ipynb): DBSCAN and Kmeans for GDP per country classification.
 
+* [PCA example](https://github.com/Sampayob/Machine-Learning/blob/master/classification-and-clustering/PCA%20Sklearn.ipynb).
+
 * [Santader bank transaction data - Classification and Clustering](https://github.com/Sampayob/Machine-Learning/blob/master/classification-and-clustering/santander-clustering-and-classification.ipynb): EDA, extensive data visualization, binary classification, clustering (need long computing time), ROC, GridSearch.
 
 ### Regression
