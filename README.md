@@ -10,6 +10,8 @@ Repository with Python Machine Learning projects, Kaggle competitions and exampl
 * [ML and DL_Motor vehicle accidents in Madrid 2019 (**Spanish language used**)](https://github.com/Sampayob/Machine-Learning/blob/master/classification/MLandDL_MotorVehicleAccidents.ipynb) (EDA, data visualization, multiple classification, time series forecasting with RNN) 
 
 ### Classification & Clustering
+
+* [Geo-clustering: DBSCAN and Kmeans for GDP per country classification](https://github.com/Sampayob/Machine-Learning/blob/master/classification-and-clustering/Geo-economic%20Clustering.ipynb)
 * [Santader bank transaction data - Classification and Clustering](https://github.com/Sampayob/Machine-Learning/blob/master/classification-and-clustering/santander-clustering-and-classification.ipynb) (EDA, extensive data visualization, binary classification, clustering (need long computing time), ROC, GridSearch) 
 
 ### Regression
